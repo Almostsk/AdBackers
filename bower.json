@@ -1,0 +1,21 @@
+{
+  "name": "newtemplate",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "D.Prushchak <dm.prushchak@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "gulp-minificator/node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    
+  }
+}
